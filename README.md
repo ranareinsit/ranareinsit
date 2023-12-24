@@ -3,3 +3,9 @@
 [gists](https://gist.github.com/ranareinsit)
 
 [leetcode](https://leetcode.com/ranareinsit/)
+
+[kaggle](https://www.kaggle.com/ranareinsit)
+
+[codepen](https://codepen.io/ranareinsit)
+
+[codeforces](https://codeforces.com/profile/tears-in-rain)
